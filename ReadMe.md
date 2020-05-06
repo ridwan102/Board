@@ -1,1 +1,2 @@
-Takes 2D vector, parses and stores it and then outputs the file changing 1's to ⛰️
+Takes string file and parses and stores each value. 
+Prints output and changes 1's to ⛰️ based on enum class.
